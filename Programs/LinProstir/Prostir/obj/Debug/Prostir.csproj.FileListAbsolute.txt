@@ -1,0 +1,27 @@
+C:\Users\Dima\Documents\Visual Studio 2013\Projects\Prostir\Prostir\obj\Debug\Prostir.csprojResolveAssemblyReference.cache
+C:\Users\Dima\Documents\Visual Studio 2013\Projects\Prostir\Prostir\obj\Debug\Prostir.exe
+C:\Users\Dima\Documents\Visual Studio 2013\Projects\Prostir\Prostir\bin\Debug\Prostir.exe.config
+C:\Users\Dima\Documents\Visual Studio 2013\Projects\Prostir\Prostir\bin\Debug\Prostir.exe
+C:\Users\Dima\Documents\Visual Studio 2013\Projects\Prostir\Prostir\bin\Debug\Prostir.pdb
+C:\Users\Dima\Documents\Visual Studio 2013\Projects\Prostir\Prostir\obj\Debug\Prostir.pdb
+C:\Users\admin\Downloads\Prostir\Prostir\bin\Debug\Prostir.exe.config
+C:\Users\admin\Downloads\Prostir\Prostir\obj\Debug\Prostir.exe
+C:\Users\admin\Downloads\Prostir\Prostir\obj\Debug\Prostir.pdb
+C:\Users\admin\Downloads\Prostir\Prostir\bin\Debug\Prostir.exe
+C:\Users\admin\Downloads\Prostir\Prostir\bin\Debug\Prostir.pdb
+C:\Users\admin\Downloads\Prostir\Prostir\obj\Debug\Prostir.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Prostir\Prostir\bin\Debug\Prostir.exe.config
+C:\Users\admin\Desktop\Prostir\Prostir\obj\Debug\Prostir.exe
+C:\Users\admin\Desktop\Prostir\Prostir\obj\Debug\Prostir.pdb
+C:\Users\admin\Desktop\LProstir\Prostir\bin\Debug\Prostir.exe.config
+C:\Users\admin\Desktop\LProstir\Prostir\obj\Debug\Prostir.exe
+C:\Users\admin\Desktop\LProstir\Prostir\obj\Debug\Prostir.pdb
+C:\Users\admin\Desktop\Базиленко\LinProstir\Prostir\bin\Debug\Prostir.exe.config
+C:\Users\admin\Desktop\Базиленко\LinProstir\Prostir\obj\Debug\Prostir.exe
+C:\Users\admin\Desktop\Базиленко\LinProstir\Prostir\obj\Debug\Prostir.pdb
+C:\Users\admin\Desktop\алгебра геометрия лр\4 лр\LinProstir\Prostir\bin\Debug\Prostir.exe.config
+C:\Users\admin\Desktop\алгебра геометрия лр\4 лр\LinProstir\Prostir\obj\Debug\Prostir.exe
+C:\Users\admin\Desktop\алгебра геометрия лр\4 лр\LinProstir\Prostir\obj\Debug\Prostir.pdb
+C:\Users\admin\Desktop\алгебра геометрия лр\4 лр\LinProstir\Prostir\bin\Debug\Prostir.exe
+C:\Users\admin\Desktop\алгебра геометрия лр\4 лр\LinProstir\Prostir\bin\Debug\Prostir.pdb
+C:\Users\admin\Desktop\алгебра геометрия лр\4 лр\LinProstir\Prostir\obj\Debug\Prostir.csprojResolveAssemblyReference.cache
